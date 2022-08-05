@@ -1,0 +1,5 @@
+1. Use Visual Studio 2019 to open RobotToy.sln
+2. Build the solution
+3. Run the project from Visual Studio by click Ctrl + F5 or Run RobotToy.exe at location \RobotToy\bin\Debug\netcoreapp3.1
+
+
